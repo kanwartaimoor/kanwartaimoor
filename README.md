@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 
 
-A seasoned Full Stack Engineer with over 4+ years of experience, specializing in crafting robust web applications using React, Rails, and Serverless technologies. My journey in software engineering has taken me across diverse industries, including Healthcare, Automobile, CRM, and E-Commerce, where I've had the privilege of collaborating with a family ###startups### ###worldwide###.
+A seasoned Full Stack Engineer with over 4+ years of experience, specializing in crafting robust web applications using React, Rails, and Serverless technologies. My journey in software engineering has taken me across diverse industries, including Healthcare, Automobile, CRM, and E-Commerce, where I've had the privilege of collaborating with a family ## startups ## ## worldwide ##.
 
 🚀 Passionate about delivering high-quality solutions, I thrive on tackling complex challenges and turning them into elegant, scalable products. Whether it's building intuitive user interfaces or architecting efficient backend systems, I'm dedicated to excellence in every line of code.
 
@@ -21,7 +21,7 @@ A seasoned Full Stack Engineer with over 4+ years of experience, specializing in
 
 
 ### 📫 How to reach me
-Kanwartaimoor99@gamil.com 
+Kanwartaimoor99@gamil.com  
 +923324808015
 
 ### ⚡ What I love
