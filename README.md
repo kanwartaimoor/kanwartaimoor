@@ -1,22 +1,19 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 
 
-A seasoned Full Stack Engineer with over 4+ years of experience, specializing in crafting robust web applications using React, Rails, and Serverless technologies. My journey in software engineering has taken me across diverse industries, including Healthcare, Automobile, CRM, and E-Commerce, where I've had the privilege of collaborating with a family ##startups## ##worldwide##.
+A seasoned Full Stack Engineer with over 4+ years of experience, specializing in crafting robust web applications using React, Rails, and Serverless technologies. My journey in software engineering has taken me across diverse industries, including Healthcare, Automobile, CRM, and E-Commerce, where I've had the privilege of collaborating with a family ###startups### ###worldwide###.
 
 🚀 Passionate about delivering high-quality solutions, I thrive on tackling complex challenges and turning them into elegant, scalable products. Whether it's building intuitive user interfaces or architecting efficient backend systems, I'm dedicated to excellence in every line of code.
 
-💻 My tech toolkit includes:
+## 💻 My Tech Toolkit
 
 
-### Language & FrameWorks
+## Language & FrameWorks
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-5384DE?logo=ruby)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  
 ![React](https://img.shields.io/badge/-React-20232A?logo=react)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb)  
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)  
-
-
-### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -27,8 +24,14 @@ A seasoned Full Stack Engineer with over 4+ years of experience, specializing in
 
 
 
+### 📫 How to reach me
+Kanwartaimoor99@gamil.com 
++923324808015
 
-- 📫 How to reach me: ...
+### ⚡ What I love
+Shipping high-quality code  
+Build startups  
+Traveling  
+Photogrpahy ([My Photo Journal](https://www.instagram.com/kanwar_taimoor/))
 
-- ⚡ What I love: ...
 
