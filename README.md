@@ -1,3 +1,8 @@
+<p align="center">
+  [<img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=%20Kanwar%20Taimoor&animation=fadeIn&desc=From%20software%20to%20AI%20—%20engineering%20the%20next%20revolution.&descSize=-1&descAlignY=42&fontAlignY=26)
+</p>
+
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 
 
 A seasoned Full Stack Engineer with over 4+ years of experience, specializing in crafting robust web applications using React, Rails, and Serverless technologies. My journey in software engineering has taken me across diverse industries, including Healthcare, Automobile, CRM, and E-Commerce, where I've had the privilege of collaborating with a family **startups** **worldwide.**
