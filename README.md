@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=%20Kanwar%20Taimoor&animation=fadeIn&desc=From%20software%20to%20AI%20—%20engineering%20the%20next%20revolution.&descSize=16&descAlignY=71&fontAlignY=42"/>
 </p>
 
-A seasoned Full Stack Engineer with over 4+ years of experience, specializing in crafting robust web applications using React, Rails, and Serverless technologies. My journey in software engineering has taken me across diverse industries, including Healthcare, Automobile, CRM, and E-Commerce, where I've had the privilege of collaborating with a family **startups** **worldwide.**
+A seasoned Full Stack Engineer with over 5 years of experience, specializing in crafting robust web applications using React, Rails, and Serverless technologies. My journey in software engineering has taken me across diverse industries, including Healthcare, Automobile, CRM, and E-Commerce, where I've had the privilege of collaborating with a family **startups** **worldwide.**
 
 🚀 Passionate about delivering high-quality solutions, I thrive on tackling complex challenges and turning them into elegant, scalable products. Whether it's building intuitive user interfaces or architecting efficient backend systems, I'm dedicated to excellence in every line of code.
 
