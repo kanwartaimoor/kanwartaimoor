@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:EEFF00,100:a82da8&text=%20Kanwar%20Taimoor&animation=fadeIn&desc=From%20software%20to%20AI%20—%20engineering%20the%20next%20revolution.&descSize=16&descAlignY=71&fontAlignY=42"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=%20Kanwar%20Taimoor&animation=fadeIn&desc=From%20software%20to%20AI%20—%20engineering%20the%20next%20revolution.&descSize=16&descAlignY=71&fontAlignY=42"/>
 </p>
 
 A seasoned Full Stack Engineer with over 5 years of experience, specializing in crafting robust web applications using React, Rails, and Serverless technologies. My journey in software engineering has taken me across diverse industries, including Healthcare, Automobile, CRM, and E-Commerce, where I've had the privilege of collaborating with a family **startups** **worldwide.**
