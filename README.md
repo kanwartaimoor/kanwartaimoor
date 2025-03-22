@@ -6,6 +6,8 @@ A seasoned Full Stack Engineer with over 5 years of experience, specializing in 
 
 🚀 Passionate about delivering high-quality solutions, I thrive on tackling complex challenges and turning them into elegant, scalable products. Whether it's building intuitive user interfaces or architecting efficient backend systems, I'm dedicated to excellence in every line of code.
 
+![Kanwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanwartaimoor&theme=dark&show_icons=true)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kanwartaimoor) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kanwar_taimoor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanwar-taimoor) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kanwartaimoor99) 
 
